@@ -390,7 +390,7 @@ nav button:hover {
 @media (min-width:460px) {
   .footer-subscribe {
     display: inline-block;
-    margin-left: 1rem;
+    margin-left: 0.5rem;
   }
 }
 
@@ -503,7 +503,7 @@ nav button:hover {
   }
 
   .footer-email {
-    max-width: 25vw;
+    max-width: 22vw;
   }
 
   :root {
